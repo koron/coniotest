@@ -5,6 +5,10 @@
 //   > .\main.exe
 //
 // Use the task manager to stop this program.
+//
+// See also:
+//   * https://learn.microsoft.com/ja-jp/windows/console/console-virtual-terminal-sequences
+//   * https://github.com/PowerShell/openssh-portable/blob/latestw_all/contrib/win32/win32compat/console.c
 
 #include <stdio.h>
 #include <windows.h>
