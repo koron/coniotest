@@ -1,3 +1,5 @@
+// Dump INPUT_RECORD from CONIN$
+//
 // USAGE:
 //   > cl main.c
 //   > .\main.exe
